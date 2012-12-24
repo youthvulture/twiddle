@@ -1,0 +1,4 @@
+PyYAML==3.10
+pyaml==12.12.5
+pymongo==2.4.1
+tweetstream==1.1.1
